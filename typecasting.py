@@ -23,3 +23,12 @@ num_float = float(num_int)  # Explicitly converting the integer to a float
 print(num_float)  # Output: 100.0
 
 
+
+number="100.5"
+int_helo=float(number) #ouput = 100.5
+
+int_helo=int(int_helo) #output = 100 now
+
+
+print(int_helo)
+
