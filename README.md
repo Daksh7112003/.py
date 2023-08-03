@@ -1,1 +1,1 @@
-# timepass
+Python practice codes
