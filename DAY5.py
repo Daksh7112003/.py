@@ -31,10 +31,6 @@ print(list)      #bekar ke identification error ....
 
 
 
-
-
-
-
 #for loop
 
 b=0
