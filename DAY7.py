@@ -7,15 +7,6 @@ def hello():
 hello()
 
 
-
-
-
-
-
-
-
-
-
 def even_odd(x):
     if x/2==0:
         print(x, "is even")
@@ -23,9 +14,6 @@ def even_odd(x):
         print(x,"is odd")
 
 even_odd(3) 
-
-
-
 
 
 l1=[5,6,7]
